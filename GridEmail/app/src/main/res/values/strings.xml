@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GridEmail</string>
+    <string name="to_str">To</string>
+    <string name="enter_email_str">Enter email address</string>
+    <string name="message_str">Message</string>
+    <string name="send_str">Send</string>
+</resources>

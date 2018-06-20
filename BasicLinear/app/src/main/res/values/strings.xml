@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BasicLinear</string>
+    <string name = "to_text">"To</string>
+    <string name = "message_text">Message</string>
+    <string name = "send">Send</string>
+</resources>

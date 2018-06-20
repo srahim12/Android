@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ShoesLinear</string>
+    <string-array name="colors">
+        <item>White</item>
+        <item>Black</item>
+        <item>Gray</item>
+    </string-array>
+    <string name ="find_shoe">Find Shoe</string>
+    <string name = "brands"></string>
+</resources>
